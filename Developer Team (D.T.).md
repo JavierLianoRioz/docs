@@ -1,4 +1,0 @@
----
-tags:
-  - Equipo_Scrum
----

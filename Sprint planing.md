@@ -1,4 +1,0 @@
----
-tags:
-  - Eventos_Scrum
----
